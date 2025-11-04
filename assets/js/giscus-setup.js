@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "feng-tech/fengzhu.github.io",
+    "data-repo": "feng-tech/feng-tech.github.io",
     "data-repo-id": "",
     "data-category": "",
     "data-category-id": "",
