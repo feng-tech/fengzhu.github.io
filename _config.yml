@@ -7,7 +7,7 @@ first_name: Feng
 middle_name:
 last_name: Zhu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Feng Zhu (朱峰) is an economist at Nankai University. His research spans seconomic theory, experimental and behavioral economics, with applications to contests, electricity markets and generative AI.
+  Feng Zhu (朱峰) is an economist at Nankai University. His research spans economic theory, experimental and behavioral economics, with applications to contests, electricity markets and generative AI.
 footer_text: >
   © 2025 Feng Zhu. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: 
